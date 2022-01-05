@@ -13,8 +13,10 @@
 <br />
 
 ### 📫 Contact with me
+<div style="display: flex; align-items: center">
 [<img align="left" alt="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][LinkedIn]
 [<img align="left" alt="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />][Instagram]
+</div>
 
 [LinkedIn]: https://www.linkedin.com/in/seem16/
 [Instagram]: https://instagram.com/greenfl4me/
