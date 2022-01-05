@@ -5,7 +5,7 @@
 - ⚡ I write code and draw interfaces
 
 ### 📫 Contact with me
-- [<img align="left" alt="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][LinkedIn],
+- [<img align="left" alt="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][LinkedIn]
 
 
 
