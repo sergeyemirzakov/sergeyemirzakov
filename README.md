@@ -1,4 +1,6 @@
-### Hi there 👋, My name is Sergey and I am a Frontend Developer and UX/UI designer
+### Hi there 👋, 
+<br />
+### My name is Sergey and I am a Frontend Developer and UX/UI designer
 
 ### I am a Frontend Developer and UX/UI designer
 
