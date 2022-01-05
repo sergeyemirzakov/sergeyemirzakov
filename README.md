@@ -5,6 +5,7 @@
 - ⚡ I write code and draw interfaces
 - 🧐 I am looking for practice in English
 - 📸 I like to take pictures in my free time
+- 🍩 Site: https://sergeyemirzakov.gatsbyjs.io/
 
 ### 🛠 Languages and Tools
 • React • Gatsby • Redux • TypeScript • Tailwind • Charka UI • Bootstrap • Figma
@@ -13,8 +14,6 @@
 [<img align="left" alt="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][LinkedIn]
 [<img align="left" alt="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" />][Instagram]
 
-<br />
-- 🍩 Site: https://sergeyemirzakov.gatsbyjs.io/
 
 
 [LinkedIn]: https://www.linkedin.com/in/seem16/
