@@ -7,7 +7,7 @@
 - 📸 I like to take pictures in my free time
 
 ### 🛠 Languages and Tools
-• React • Gatsby • Redux • TypeScript • Tailwind • Charka UI • Figma
+• React • Gatsby • Redux • TypeScript • Tailwind • Charka UI • Bootstrap • Figma
 
 ### 📫 Contact with me
 [<img align="left" alt="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][LinkedIn]
