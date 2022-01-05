@@ -12,6 +12,6 @@
 
 
 
-[LinkedIn]: linkedin.com/in/seem16
+[LinkedIn]: https://www.linkedin.com/in/seem16/
 
 
