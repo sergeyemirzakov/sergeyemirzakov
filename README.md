@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Serget
 
 ### I am a Frontend Developer and UX/UI designer
 
