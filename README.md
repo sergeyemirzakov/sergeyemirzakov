@@ -7,8 +7,7 @@
 - 📸 I like to take pictures in my free time
 
 ### 🛠 Languages and Tools
-<img align="left" alt="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-<img align="left" alt="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+React, Gatsby, Redux, TypeScript, Tailwind, Charka UI, Figma
 
 <br />
 
